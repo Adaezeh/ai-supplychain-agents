@@ -1,0 +1,6 @@
+BL Number,Shipment ID,Origin,Destination,Departure Date,ETA,Carrier,Weight (tons),Status
+BL12345678,SHP001,Hamburg,New York,2025-05-01,2025-05-10,Maersk,10,In Transit
+BL23456789,SHP002,Shanghai,Rotterdam,2025-05-02,2025-05-12,CMA CGM,15,In Transit
+BL34567890,SHP003,Rotterdam,Lagos,2025-05-03,2025-05-15,Hapag-Lloyd,8,In Transit
+BL45678901,SHP004,Lagos,Hamburg,2025-05-04,2025-05-18,MSC,12,In Transit
+BL56789012,SHP005,Los Angeles,Shanghai,2025-05-05,2025-05-20,Evergreen,20,In Transit
